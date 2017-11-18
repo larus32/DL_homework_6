@@ -13,9 +13,9 @@
     "title": "VK graph"
   },
   "legend": {
-    "edgeLabel": "Друзья ВК",
-    "colorLabel": "Общие друзья",
-    "nodeLabel": "Группы"
+    "edgeLabel": "Дружественные связи между друзьями",
+    "colorLabel": "Социальные группы",
+    "nodeLabel": "Друзбя ВК"
   },
   "features": {
     "search": true,
